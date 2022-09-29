@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizcandarcan" alt="denizcandarcan" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning Js Frameworks&Libraries such as React.JS
 
 - 📫 How to reach me **denizcandarcan@outlook.com**
 
