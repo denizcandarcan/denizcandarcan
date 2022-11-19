@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denizcan Darcan</h1>
-<h3 align="center">A software enthusiast especially interested with mobile development in these days.</h3>
+<h3 align="center">A software enthusiast, a coffe obsessed!☕</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizcandarcan" alt="denizcandarcan" /></a> </p>
 
