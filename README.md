@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denizcandarcan" alt="denizcandarcan" /></a> </p>
 
-- 🌱 I'm focusing on helper tools/scripts for PC Mobile games as side projects in these days. These type of my repositories private for now due to respect of Game Development Companies purposes. That type projects are only experimental not for daily uses.
-
 - 📫 How to reach me **denizcandarcan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
